@@ -14,3 +14,4 @@ Integrated the backend API with the React app, providing a seamless experience f
 ## 🛠 Tools used
 Python, FastAPI, Tensorflow, React app.
 
+![screen recorder for windows 11 - Google Search - Google Chrome 10-09-2024 09_23_47 PM](https://github.com/user-attachments/assets/ec3fc6b5-2590-40d8-8864-1d7276525e73)
